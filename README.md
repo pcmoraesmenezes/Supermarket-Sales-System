@@ -8,10 +8,7 @@ This Python project is an example of an object-oriented design for a supermarket
 - [How to Use](#how-to-use)
 - [Project Structure](#project-structure)
 - [Object-Oriented Concepts](#object-oriented-concepts)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Features
 
 - **Products and Catalog:** Define and manage product descriptions with a product catalog.
